@@ -5,7 +5,7 @@ edad =input ("Escriba su edad actual: ")
 edadDec = (int(edad)) 
 edad2 = (float(edad))
 print(type(edadDec))
-print(type(edad2))
+print(type(edad2)) 
 print("Usted va a tener:",(edadDec + 3),"años en grado Decimo")
 print("Edad en decimal:",(edad2 + 3),"años en grado Decimo")
 

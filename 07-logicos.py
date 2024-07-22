@@ -6,6 +6,6 @@ print(edad > 18 and edad < 30)
 print(edad > 18 or edad < 30)
 # El operador lógico "OR" tiene como fin el ejecutar las dos sentencias y devolver un valor de "True"
 
-print(not (edad < 17))
-#El operador "NOT" tiene como función el negar loq eu se le asigne a la derecha de este entre paréntesis
+print(not (edad > 17))
+#El operador "NOT" tiene como función el negar lo que se le asigne a la derecha de este entre paréntesis
 # si es "True" lo pasa a "False" y viceversa  
